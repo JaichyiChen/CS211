@@ -1,2 +1,2 @@
 # CS211
-Some of CS211 projects
+CS211 projects
